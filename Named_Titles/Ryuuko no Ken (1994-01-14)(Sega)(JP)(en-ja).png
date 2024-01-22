@@ -1,0 +1,36 @@
+<br />
+<b>Warning</b>:  imagecreatefrompng(): gd-png: fatal libpng error: IDAT: invalid distance too far back
+ in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  imagecreatefrompng(): gd-png error: setjmp returns error condition 3
+ in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  imagecreatefrompng(): '../medias/1/456/sstitle(jp).png' is not a valid PNG file in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  imagealphablending() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>169</b><br />
+<br />
+<b>Warning</b>:  imagesavealpha() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>170</b><br />
+<br />
+<b>Warning</b>:  imagesx() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>173</b><br />
+<br />
+<b>Warning</b>:  imagesy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>174</b><br />
+<br />
+<b>Warning</b>:  imagecreatetruecolor(): Invalid image dimensions in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>197</b><br />
+<br />
+<b>Warning</b>:  imagealphablending() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>200</b><br />
+<br />
+<b>Warning</b>:  imagesavealpha() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>201</b><br />
+<br />
+<b>Warning</b>:  imagecolorallocatealpha() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>202</b><br />
+<br />
+<b>Warning</b>:  imagecolortransparent() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>203</b><br />
+<br />
+<b>Warning</b>:  imagefilledrectangle() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>204</b><br />
+<br />
+<b>Warning</b>:  imagecopyresampled() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>207</b><br />
+<br />
+<b>Warning</b>:  imagepng() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>216</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>227</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>228</b><br />
